@@ -1,0 +1,8 @@
+D:/QT_project/sample2/out/build/debug/CMakeFiles/sample2.dir
+D:/QT_project/sample2/out/build/debug/CMakeFiles/edit_cache.dir
+D:/QT_project/sample2/out/build/debug/CMakeFiles/rebuild_cache.dir
+D:/QT_project/sample2/out/build/debug/CMakeFiles/list_install_components.dir
+D:/QT_project/sample2/out/build/debug/CMakeFiles/install.dir
+D:/QT_project/sample2/out/build/debug/CMakeFiles/install/local.dir
+D:/QT_project/sample2/out/build/debug/CMakeFiles/sample2_autogen_timestamp_deps.dir
+D:/QT_project/sample2/out/build/debug/CMakeFiles/sample2_autogen.dir
